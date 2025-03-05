@@ -27,3 +27,8 @@ Welcome to **ShopSizzle** – Your One Stop Shopping App 🔥.
 #### 1. Clone the Repo:
 ```bash
 git clone git@github.com:imayank2/ShopSizzle.git
+
+
+#### 2. Install Backend Dependencies:
+cd backend
+mvn clean install
