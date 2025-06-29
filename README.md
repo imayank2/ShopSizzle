@@ -32,7 +32,7 @@ Welcome to **ShopSizzle** – Your One Stop Shopping App 🔥
 git clone https://github.com/imayank2/ShopSizzle.git
 cd ShopSizzle
 ```
-### 2. Backend Setup (Spring Boot)
+#### 2. Backend Setup (Spring Boot)
 1. Open the project in IntelliJ or Eclipse
 
 2. Create a new database in MySQL
@@ -41,7 +41,7 @@ cd ShopSizzle
 
 4. Run the Spring Boot application
 
-### 3. Frontend Setup (React)
+#### 3. Frontend Setup (React)
 ```bash
 cd frontend
 npm install
